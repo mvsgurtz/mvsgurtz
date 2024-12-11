@@ -10,6 +10,8 @@ I build and break stuff 🚀
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvsgurtz&theme=github_dark" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvsgurtzt&amp;theme=github_dark" style="max-width: 100%;">
 </p>
 
+<img width="100%" src="https://camo.githubusercontent.com/ccdd631dd103f0f03e505d184df4913fd5fae3e51e70610064d3b20c7be41965/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c6a732c74732c707974686f6e2c6c617465782c616e67756c61722c72656163742c6e6578746a732c766974652c6e6f64656a732c7461696c77696e642c6e706d2c646f636b65722c6769742c6769746875622c76657263656c2c706f7374677265732c7673636f64652c7562756e74752c77696e646f77732c636f646570656e2c6669676d61267468656d653d6c69676874267065726c696e653d3132" alt="Skills Icons" data-canonical-src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,latex,angular,react,nextjs,vite,nodejs,tailwind,npm,docker,git,github,vercel,postgres,vscode,ubuntu,windows,codepen,figma&amp;theme=light&amp;perline=12" style="max-width: 100%;">
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
