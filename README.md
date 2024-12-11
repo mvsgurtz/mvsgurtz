@@ -6,9 +6,8 @@ A passionate solve problems.
 
 I build and break stuff 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvsgurtz&hide=contribs,prs)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvsgurtz)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -32,9 +31,8 @@ I build and break stuff 🚀
     This is the playlist that a love to listen!
 </p>
 
-<p align="left">  
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO0LuyqI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
   
 ## Work Experience
 
