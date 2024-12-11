@@ -21,9 +21,13 @@ I build and break stuff 🚀
   
 ## Work Experience
 
-**Software Developer Jr)**
-- BackEnd Developer
-- Set • Currently
-- Languages & Technologies: Java, Go.
+<p dir="auto">
+    <a href="https://www.mercadolivre.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="DevOps" src="https://99prod.s3.amazonaws.com/uploads/678e6c2b-7539-4881-bb6f-22aded41d92f/novo%20logo.JPG" secured-asset-link="" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong>Software Developer (Jr)</strong> <br>
+<a href="https://www.mercadolivre.com.br/" rel="nofollow"><strong>BackEnd Developer</strong></a> • Full time <br>
+Set • Currently <br>
+Languages &amp; Technologies: <code>Java</code> <code>Go</code>
+
+
 
 "Embrace the uncharted waters of innovation" – Grace Hopper, 1960
