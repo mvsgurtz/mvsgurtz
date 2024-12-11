@@ -7,7 +7,7 @@ A passionate solve problems.
 I build and break stuff 🚀
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvsgurtz&show_icons=true&theme=dark)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
