@@ -10,7 +10,7 @@ I build and break stuff 🚀
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvsgurtz&theme=github_dark" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvsgurtzt&amp;theme=github_dark" style="max-width: 100%;">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,react,css,sass,discord,docker,elastichserach,express,git,github,go,html,idea,mysql,npm,postegres,postman,prisma,py,spring,stackovergflow,selenium,vercel,vite,figma&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,react,css,sass,discord,docker,elasticsearch,express,git,github,go,html,idea,mysql,npm,postgres,postman,prisma,py,spring,stackovergflow,selenium,vercel,vite,figma&theme=light)](https://skillicons.dev) 
 
 <p align="rigth">
     This is the playlist that a love to listen!
