@@ -2,7 +2,7 @@
 
 I'm a Software Developer!! 
 
-A passionate solve problems.
+Passionate about solving problems
 
 I build and break stuff 🚀
 
@@ -25,7 +25,7 @@ I build and break stuff 🚀
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,react,css,sass,discord,docker,elasticsearch,express,git,github,go,html,idea,mysql,npm,postgres,postman,prisma,py,spring,stackoverflow,selenium,vercel,vite,figma&theme=light)](https://skillicons.dev) 
 
 <p align="rigth">
-    This is the playlist that a love to listen!
+    This is the playlist that i love to listen!
 </p>
 
 [![Ouça no Spotify](https://img.shields.io/badge/Spotify-Playlist-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0LuyqI)
