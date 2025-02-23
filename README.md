@@ -45,4 +45,4 @@ Languages &amp; Technologies: <code>Java</code> <code>Go</code>
 "Embrace the uncharted waters of innovation" – Grace Hopper, 1960
 
 
-<img width="100%" src="https://camo.githubusercontent.com/ea4d1fdcdad09da6af50c14a1f484ebad5e0e1bbeab328cc82299a40872e35d6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d636330393330266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=fcf529&amp;height=100&amp;section=footer" style="max-width: 100%;">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fcf529&height=100&section=footer"/>
